@@ -1,0 +1,15 @@
+.ContentPageComponent{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 30px auto;
+}
+.myPosts{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.mySideMenuComponent{
+    width: 30%;
+}

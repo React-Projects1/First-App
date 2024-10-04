@@ -1,0 +1,9 @@
+.header{
+    background-color: darkcyan;
+}
+.header h1{
+    margin: 0;
+    padding: 30px;
+    color: white;
+    text-transform: capitalize;
+}

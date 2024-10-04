@@ -1,0 +1,11 @@
+.posts{
+    border: 2px solid darkcyan;
+    padding: 10px 20px;
+}
+.posts h2{
+    border-bottom: 2px solid gray;
+    padding-bottom: 20px;
+}
+.posts p{
+    color: gray;
+}
